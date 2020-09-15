@@ -8,14 +8,8 @@ import Widgets from "./Widgets"
 function App() {
   return (
     <div className="app">
-
-      {/*sidebar */}
       <Sidebar />
-
-      {/*feed */}
       <Feed />
-
-      {/* widget */}
       <Widgets />
     </div>
   );
