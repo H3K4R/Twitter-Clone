@@ -19,7 +19,7 @@ function Post({displayName,username,verified,text,image,avatar }){
               <h3>
                 Swarnava Basu{" "}
                 <span className="post__headerSpecial">
-                   <VerifiedUserIcon className="post__badge" /> @SwarnavaBasu
+                   <VerifiedUserIcon className="post__badge" /> @DevSwarnava
                   
                 </span>
               </h3>
